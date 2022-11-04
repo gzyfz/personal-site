@@ -1,0 +1,29 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color:gray;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    color:#66BFBF ;
+}
+
+h2 {
+    color:#66BFBF ;
+}
+
+table{
+    table-layout: fixed;
+    width: 40%;
+    border-collapse: collapse;
+}
+
+td{
+    text-align:center;
+}
